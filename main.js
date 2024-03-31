@@ -26,10 +26,6 @@ const scrollScale = d3.scaleLinear()
 
 d3.json('data.json').then((data) => {
     d3.json('world-custom.json').then((mapData) => {
-        // console.log(mapData);
-// console.log(TopoJSON.feature);
-// console.log(TopoJSON.feature(mapData, mapData.objects.countries).features)
-
         worldGroup
         .selectAll('path')
         .data(TopoJSON.feature(mapData, mapData.objects.countries).features)
@@ -46,12 +42,8 @@ d3.json('data.json').then((data) => {
                 return '#111111'
             }
         })
-        
-        
-
     })
     window.addEventListener('scroll', function() {
-
         const pixels = window.pageYOffset
         const threshold = scrollScale(pixels)
         const format = d3.format('.1f')
