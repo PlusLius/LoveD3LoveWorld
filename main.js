@@ -1,5 +1,5 @@
 import * as d3 from 'd3'
-import * as TopoJSON from 'TopoJSON';
+import * as TopoJSON from 'topojson';
 import './style.css'
 
 const svg = d3.select('svg')
