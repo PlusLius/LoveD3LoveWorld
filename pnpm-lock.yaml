@@ -8,6 +8,9 @@ dependencies:
   d3:
     specifier: ^7.9.0
     version: 7.9.0
+  topojson:
+    specifier: ^3.0.2
+    version: 3.0.2
 
 devDependencies:
   vite:
@@ -353,6 +356,10 @@ packages:
   /@types/estree@1.0.5:
     resolution: {integrity: sha512-/kYRxGDLWzHOB7q+wtSUQlFrtcdUccpfy+X+9iMBpHK8QLLhx2wIPYuS5DYtR9Wa/YlZAbIovy7qVdB1Aq6Lyw==, tarball: https://registry.npmmirror.com/@types/estree/-/estree-1.0.5.tgz}
     dev: true
+
+  /commander@2.20.3:
+    resolution: {integrity: sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==, tarball: https://registry.npmmirror.com/commander/-/commander-2.20.3.tgz}
+    dev: false
 
   /commander@7.2.0:
     resolution: {integrity: sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw==, tarball: https://registry.npmmirror.com/commander/-/commander-7.2.0.tgz}
@@ -724,6 +731,38 @@ packages:
     resolution: {integrity: sha512-itJW8lvSA0TXEphiRoawsCksnlf8SyvmFzIhltqAHluXd88pkCd+cXJVHTDwdCr0IzwptSm035IHQktUu1QUMg==, tarball: https://registry.npmmirror.com/source-map-js/-/source-map-js-1.2.0.tgz}
     engines: {node: '>=0.10.0'}
     dev: true
+
+  /topojson-client@3.0.0:
+    resolution: {integrity: sha512-2phZ98wg/iKvsWxbB6JQcq0/N0f+sRx8ZogdvjCg+CjaJdmV0knP0OQwK5XbgnytAPx5lPZk41kiWpgH2w9FHg==, tarball: https://registry.npmmirror.com/topojson-client/-/topojson-client-3.0.0.tgz}
+    hasBin: true
+    dependencies:
+      commander: 2.20.3
+    dev: false
+
+  /topojson-server@3.0.0:
+    resolution: {integrity: sha512-UhhwQk4e2+lwhAVYkja3J5nQHQmKwORDuIQPkMnFFZFcLqWKLQWI3u7fZWtNIXTElBjTYdBUL1kzi1+oS/qDQw==, tarball: https://registry.npmmirror.com/topojson-server/-/topojson-server-3.0.0.tgz}
+    hasBin: true
+    dependencies:
+      commander: 2.20.3
+    dev: false
+
+  /topojson-simplify@3.0.2:
+    resolution: {integrity: sha512-gyYSVRt4jO/0RJXKZQPzTDQRWV+D/nOfiljNUv0HBXslFLtq3yxRHrl7jbrjdbda5Ytdr7M8BZUI4OxU7tnbRQ==, tarball: https://registry.npmmirror.com/topojson-simplify/-/topojson-simplify-3.0.2.tgz}
+    hasBin: true
+    dependencies:
+      commander: 2.20.3
+      topojson-client: 3.0.0
+    dev: false
+
+  /topojson@3.0.2:
+    resolution: {integrity: sha512-u3zeuL6WEVL0dmsRn7uHZKc4Ao4gpW3sORUv+N3ezLTvY3JdCuyg0hvpWiIfFw8p/JwVN++SvAsFgcFEeR15rQ==, tarball: https://registry.npmmirror.com/topojson/-/topojson-3.0.2.tgz}
+    deprecated: Use topojson-client, topojson-server or topojson-simplify directly.
+    hasBin: true
+    dependencies:
+      topojson-client: 3.0.0
+      topojson-server: 3.0.0
+      topojson-simplify: 3.0.2
+    dev: false
 
   /vite@5.2.7:
     resolution: {integrity: sha512-k14PWOKLI6pMaSzAuGtT+Cf0YmIx12z9YGon39onaJNy8DLBfBJrzg9FQEmkAM5lpHBZs9wksWAsyF/HkpEwJA==, tarball: https://registry.npmmirror.com/vite/-/vite-5.2.7.tgz}
