@@ -1,0 +1,998 @@
+[
+    {
+        "name": "Macau",
+        "density": 990
+    },
+    {
+        "name": "Monaco",
+        "density": 964
+    },
+    {
+        "name": "Singapore",
+        "density": 913
+    },
+    {
+        "name": "Hong Kong",
+        "density": 892
+    },
+    {
+        "name": "Gaza Strip",
+        "density": 676
+    },
+    {
+        "name": "Gibraltar",
+        "density": 657
+    },
+    {
+        "name": "Bahrain",
+        "density": 654
+    },
+    {
+        "name": "Maldives",
+        "density": 610
+    },
+    {
+        "name": "Malta",
+        "density": 610
+    },
+    {
+        "name": "Vatican City",
+        "density": 590
+    },
+    {
+        "name": "Sint Maarten",
+        "density": 550
+    },
+    {
+        "name": "Bermuda",
+        "density": 535
+    },
+    {
+        "name": "Bangladesh",
+        "density": 516
+    },
+    {
+        "name": "Guernsey",
+        "density": 512
+    },
+    {
+        "name": "Jersey",
+        "density": 500
+    },
+    {
+        "name": "Mayotte",
+        "density": 476
+    },
+    {
+        "name": "Palestine",
+        "density": 440
+    },
+    {
+        "name": "Taiwan",
+        "density": 435
+    },
+    {
+        "name": "Mauritius",
+        "density": 433
+    },
+    {
+        "name": "Barbados",
+        "density": 424
+    },
+    {
+        "name": "Nauru",
+        "density": 423
+    },
+    {
+        "name": "Saint Martin",
+        "density": 416
+    },
+    {
+        "name": "Aruba",
+        "density": 391
+    },
+    {
+        "name": "San Marino",
+        "density": 391
+    },
+    {
+        "name": "Rwanda",
+        "density": 383
+    },
+    {
+        "name": "South Korea",
+        "density": 381
+    },
+    {
+        "name": "Lebanon",
+        "density": 368
+    },
+    {
+        "name": "Saint Barthélemy",
+        "density": 366
+    },
+    {
+        "name": "Burundi",
+        "density": 337
+    },
+    {
+        "name": "Tuvalu",
+        "density": 334
+    },
+    {
+        "name": "India",
+        "density": 326
+    },
+    {
+        "name": "Curaçao",
+        "density": 320
+    },
+    {
+        "name": "Netherlands",
+        "density": 303
+    },
+    {
+        "name": "Haiti",
+        "density": 302
+    },
+    {
+        "name": "Israel",
+        "density": 299
+    },
+    {
+        "name": "Réunion",
+        "density": 298
+    },
+    {
+        "name": "Philippines",
+        "density": 293
+    },
+    {
+        "name": "Belgium",
+        "density": 285
+    },
+    {
+        "name": "Comoros",
+        "density": 277
+    },
+    {
+        "name": "Puerto Rico",
+        "density": 267
+    },
+    {
+        "name": "Grenada",
+        "density": 263
+    },
+    {
+        "name": "Martinique",
+        "density": 257
+    },
+    {
+        "name": "Sri Lanka",
+        "density": 253
+    },
+    {
+        "name": "Japan",
+        "density": 247
+    },
+    {
+        "name": "Guam",
+        "density": 246
+    },
+    {
+        "name": "El Salvador",
+        "density": 249
+    },
+    {
+        "name": "Pakistan",
+        "density": 242
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "density": 242
+    },
+    {
+        "name": "Vietnam",
+        "density": 241
+    },
+    {
+        "name": "Saint Lucia",
+        "density": 236
+    },
+    {
+        "name": "U.S. Virgin Islands",
+        "density": 233
+    },
+    {
+        "name": "United Kingdom",
+        "density": 233
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "density": 233
+    },
+    {
+        "name": "Cayman Islands",
+        "density": 232
+    },
+    {
+        "name": "Jamaica",
+        "density": 221
+    },
+    {
+        "name": "Luxembourg",
+        "density": 221
+    },
+    {
+        "name": "Liechtenstein",
+        "density": 217
+    },
+    {
+        "name": "Gambia",
+        "density": 213
+    },
+    {
+        "name": "Nigeria",
+        "density": 213
+    },
+    {
+        "name": "Kuwait",
+        "density": 210
+    },
+    {
+        "name": "Guadeloupe",
+        "density": 209
+    },
+    {
+        "name": "São Tomé and Príncipe",
+        "density": 201
+    },
+    {
+        "name": "Seychelles",
+        "density": 195
+    },
+    {
+        "name": "Qatar",
+        "density": 184
+    },
+    {
+        "name": "Germany",
+        "density": 183
+    },
+    {
+        "name": "Dominican Republic",
+        "density": 175
+    },
+    {
+        "name": "Marshall Islands",
+        "density": 171
+    },
+    {
+        "name": "Malawi",
+        "density": 166
+    },
+    {
+        "name": "American Samoa",
+        "density": 164
+    },
+    {
+        "name": "North Korea",
+        "density": 159
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "density": 158
+    },
+    {
+        "name": "Switzerland",
+        "density": 153
+    },
+    {
+        "name": "Nepal",
+        "density": 149
+    },
+    {
+        "name": "British Virgin Islands",
+        "density": 148
+    },
+    {
+        "name": "Uganda",
+        "density": 148
+    },
+    {
+        "name": "Italy",
+        "density": 145
+    },
+    {
+        "name": "Kiribati",
+        "density": 144
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "density": 143
+    },
+    {
+        "name": "Anguilla",
+        "density": 140
+    },
+    {
+        "name": "Andorra",
+        "density": 138
+    },
+    {
+        "name": "Guatemala",
+        "density": 136
+    },
+    {
+        "name": "Micronesia",
+        "density": 134
+    },
+    {
+        "name": "Togo",
+        "density": 134
+    },
+    {
+        "name": "Tokelau",
+        "density": 133
+    },
+    {
+        "name": "Kosovo",
+        "density": 127
+    },
+    {
+        "name": "China",
+        "density": 125
+    },
+    {
+        "name": "Cape Verde",
+        "density": 122
+    },
+    {
+        "name": "Isle of Man",
+        "density": 120
+    },
+    {
+        "name": "Indonesia",
+        "density": 120
+    },
+    {
+        "name": "Tonga",
+        "density": 119
+    },
+    {
+        "name": "Ghana",
+        "density": 118
+    },
+    {
+        "name": "Thailand",
+        "density": 117
+    },
+    {
+        "name": "Denmark",
+        "density": 115
+    },
+    {
+        "name": "Cyprus",
+        "density": 114
+    },
+    {
+        "name": "United Arab Emirates",
+        "density": 112
+    },
+    {
+        "name": "Transnistria",
+        "density": 111
+    },
+    {
+        "name": "Czech Republic",
+        "density": 110
+    },
+    {
+        "name": "Jordan",
+        "density": 109
+    },
+    {
+        "name": "Syria",
+        "density": 109
+    },
+    {
+        "name": "Sierra Leone",
+        "density": 107
+    },
+    {
+        "name": "Poland",
+        "density": 105
+    },
+    {
+        "name": "Azerbaijan",
+        "density": 105
+    },
+    {
+        "name": "Benin",
+        "density": 104
+    },
+    {
+        "name": "Slovakia",
+        "density": 102
+    },
+    {
+        "name": "France",
+        "density": 102
+    },
+    {
+        "name": "Ethiopia",
+        "density": 102
+    },
+    {
+        "name": "Northern Cyprus",
+        "density": 101
+    },
+    {
+        "name": "Egypt",
+        "density": 99
+    },
+    {
+        "name": "Portugal",
+        "density": 97
+    },
+    {
+        "name": "Turkey",
+        "density": 94
+    },
+    {
+        "name": "Hungary",
+        "density": 94
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "density": 94
+    },
+    {
+        "name": "Austria",
+        "density": 93
+    },
+    {
+        "name": "Iraq",
+        "density": 93
+    },
+    {
+        "name": "Slovenia",
+        "density": 91
+    },
+    {
+        "name": "Malaysia",
+        "density": 90
+    },
+    {
+        "name": "Costa Rica",
+        "density": 90
+    },
+    {
+        "name": "Cuba",
+        "density": 86
+    },
+    {
+        "name": "Moldova",
+        "density": 84
+    },
+    {
+        "name": "France",
+        "density": 83
+    },
+    {
+        "name": "Albania",
+        "density": 83
+    },
+    {
+        "name": "Dominica",
+        "density": 81
+    },
+    {
+        "name": "Honduras",
+        "density": 81
+    },
+    {
+        "name": "Spain",
+        "density": 81
+    },
+    {
+        "name": "Cambodia",
+        "density": 81
+    },
+    {
+        "name": "Armenia",
+        "density": 79
+    },
+    {
+        "name": "Kenya",
+        "density": 78
+    },
+    {
+        "name": "East Timor",
+        "density": 78
+    },
+    {
+        "name": "Senegal",
+        "density": 78
+    },
+    {
+        "name": "Ivory Coast",
+        "density": 77
+    },
+    {
+        "name": "Burkina Faso",
+        "density": 76
+    },
+    {
+        "name": "French Polynesia",
+        "density": 72
+    },
+    {
+        "name": "Romania",
+        "density": 72
+    },
+    {
+        "name": "North Macedonia",
+        "density": 72
+    },
+    {
+        "name": "Wallis and Futuna",
+        "density": 71
+    },
+    {
+        "name": "Serbia",
+        "density": 71
+    },
+    {
+        "name": "Myanmar",
+        "density": 71
+    },
+    {
+        "name": "Samoa",
+        "density": 70
+    },
+    {
+        "name": "Brunei",
+        "density": 65
+    },
+    {
+        "name": "Greece",
+        "density": 65
+    },
+    {
+        "name": "Uzbekistan",
+        "density": 65
+    },
+    {
+        "name": "Lesotho",
+        "density": 63
+    },
+    {
+        "name": "Tunisia",
+        "density": 62
+    },
+    {
+        "name": "Ireland",
+        "density": 61
+    },
+    {
+        "name": "Cook Islands",
+        "density": 61
+    },
+    {
+        "name": "Tajikistan",
+        "density": 61
+    },
+    {
+        "name": "Tanzania",
+        "density": 60
+    },
+    {
+        "name": "Croatia",
+        "density": 60
+    },
+    {
+        "name": "Ecuador",
+        "density": 60
+    },
+    {
+        "name": "Eswatini",
+        "density": 59
+    },
+    {
+        "name": "Mexico",
+        "density": 58
+    },
+    {
+        "name": "Yemen",
+        "density": 57
+    },
+    {
+        "name": "Afghanistan",
+        "density": 55
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "density": 54
+    },
+    {
+        "name": "Akrotiri and Dhekelia",
+        "density": 54
+    },
+    {
+        "name": "Equatorial Guinea",
+        "density": 53
+    },
+    {
+        "name": "Ukraine",
+        "density": 53
+    },
+    {
+        "name": "Bulgaria",
+        "density": 52
+    },
+    {
+        "name": "Cameroon",
+        "density": 51
+    },
+    {
+        "name": "Guinea-Bissau",
+        "density": 49
+    },
+    {
+        "name": "Panama",
+        "density": 49
+    },
+    {
+        "name": "Guinea",
+        "density": 49
+    },
+    {
+        "name": "Norfolk Island",
+        "density": 49
+    },
+    {
+        "name": "Iran",
+        "density": 46
+    },
+    {
+        "name": "Nicaragua",
+        "density": 46
+    },
+    {
+        "name": "Georgia",
+        "density": 45
+    },
+    {
+        "name": "Morocco",
+        "density": 44
+    },
+    {
+        "name": "Madagascar",
+        "density": 43
+    },
+    {
+        "name": "Fiji",
+        "density": 43
+    },
+    {
+        "name": "South Africa",
+        "density": 43
+    },
+    {
+        "name": "Djibouti",
+        "density": 43
+    },
+    {
+        "name": "Liberia",
+        "density": 42
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "density": 42
+    },
+    {
+        "name": "Belarus",
+        "density": 39
+    },
+    {
+        "name": "Colombia",
+        "density": 38
+    },
+    {
+        "name": "Montenegro",
+        "density": 35
+    },
+    {
+        "name": "DR Congo",
+        "density": 34
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "density": 32
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "density": 31
+    },
+    {
+        "name": "Zimbabwe",
+        "density": 31
+    },
+    {
+        "name": "Montserrat",
+        "density": 30
+    },
+    {
+        "name": "Mozambique",
+        "density": 29
+    },
+    {
+        "name": "Lithuania",
+        "density": 29
+    },
+    {
+        "name": "Palau",
+        "density": 29
+    },
+    {
+        "name": "Faroe Islands",
+        "density": 28
+    },
+    {
+        "name": "United States",
+        "density": 28
+    },
+    {
+        "name": "Kyrgyzstan",
+        "density": 28
+    },
+    {
+        "name": "Laos",
+        "density": 27
+    },
+    {
+        "name": "Venezuela",
+        "density": 27
+    },
+    {
+        "name": "Eritrea",
+        "density": 27
+    },
+    {
+        "name": "Bahamas",
+        "density": 27
+    },
+    {
+        "name": "Angola",
+        "density": 26
+    },
+    {
+        "name": "Somaliland",
+        "density": 26
+    },
+    {
+        "name": "Estonia",
+        "density": 25
+    },
+    {
+        "name": "Somalia",
+        "density": 24
+    },
+    {
+        "name": "Latvia",
+        "density": 24
+    },
+    {
+        "name": "Abkhazia",
+        "density": 22
+    },
+    {
+        "name": "Vanuatu",
+        "density": 21
+    },
+    {
+        "name": "Zambia",
+        "density": 21
+    },
+    {
+        "name": "Sudan",
+        "density": 20
+    },
+    {
+        "name": "Peru",
+        "density": 20
+    },
+    {
+        "name": "Chile",
+        "density": 19
+    },
+    {
+        "name": "Solomon Islands",
+        "density": 19
+    },
+    {
+        "name": "Brazil",
+        "density": 19
+    },
+    {
+        "name": "Sweden",
+        "density": 18
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "density": 18
+    },
+    {
+        "name": "Papua New Guinea",
+        "density": 17
+    },
+    {
+        "name": "Niger",
+        "density": 17
+    },
+    {
+        "name": "Bhutan",
+        "density": 16
+    },
+    {
+        "name": "Uruguay",
+        "density": 16
+    },
+    {
+        "name": "New Zealand",
+        "density": 16
+    },
+    {
+        "name": "Algeria",
+        "density": 15
+    },
+    {
+        "name": "Åland",
+        "density": 15
+    },
+    {
+        "name": "Mali",
+        "density": 15
+    },
+    {
+        "name": "Belize",
+        "density": 14
+    },
+    {
+        "name": "Congo",
+        "density": 14
+    },
+    {
+        "name": "South Sudan",
+        "density": 13
+    },
+    {
+        "name": "Saudi Arabia",
+        "density": 12
+    },
+    {
+        "name": "Finland",
+        "density": 11
+    },
+    {
+        "name": "Argentina",
+        "density": 9
+    },
+    {
+        "name": "South Ossetia",
+        "density": 9
+    },
+    {
+        "name": "New Caledonia",
+        "density": 8
+    },
+    {
+        "name": "Paraguay",
+        "density": 7
+    },
+    {
+        "name": "Oman",
+        "density": 7
+    },
+    {
+        "name": "Chad",
+        "density": 5
+    },
+    {
+        "name": "Norway",
+        "density": 5
+    },
+    {
+        "name": "Turkmenistan",
+        "density": 4
+    },
+    {
+        "name": "Christmas Island",
+        "density": 4
+    },
+    {
+        "name": "Bolivia",
+        "density": 4
+    },
+    {
+        "name": "Central African Republic",
+        "density": 4
+    },
+    {
+        "name": "Gabon",
+        "density": 4
+    },
+    {
+        "name": "Russia",
+        "density": 4
+    },
+    {
+        "name": "Niue",
+        "density": 3
+    },
+    {
+        "name": "Kazakhstan",
+        "density": 3
+    },
+    {
+        "name": "Mauritania",
+        "density": 2
+    },
+    {
+        "name": "Botswana",
+        "density": 2
+    },
+    {
+        "name": "Libya",
+        "density": 0.9
+    },
+    {
+        "name": "Canada",
+        "density": 0.3
+    },
+    {
+        "name": "Suriname",
+        "density": 0.03
+    },
+    {
+        "name": "Guyana",
+        "density": 4
+    },
+    {
+        "name": "French Guiana",
+        "density": 4
+    },
+    {
+        "name": "Iceland",
+        "density": 4
+    },
+    {
+        "name": "Australia",
+        "density": 3
+    },
+    {
+        "name": "Namibia",
+        "density": 3
+    },
+    {
+        "name": "Western Sahara",
+        "density": 2
+    },
+    {
+        "name": "Mongolia",
+        "density": 2
+    },
+    {
+        "name": "Pitcairn Islands",
+        "density": 0.9 
+    },
+    {
+        "name": "Falkland Islands",
+        "density": 0.3 
+    },
+    {
+        "name": "Greenland",
+        "density": 0.03 
+    }
+]
